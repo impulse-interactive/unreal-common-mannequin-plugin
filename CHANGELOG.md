@@ -12,6 +12,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     -   Added Contributing guidelines ([88591f3](https://github.com/impulse-interactive/unreal-common-mannequin-plugin/commit/88591f3))
     -   Added Release workflow ([0373788](https://github.com/impulse-interactive/unreal-common-mannequin-plugin/commit/0373788))
 
+-   Plugin Setup ([#2](https://github.com/impulse-interactive/unreal-common-mannequin-plugin/pull/2))
+    -   Added Plugin files ([4700fc0](https://github.com/impulse-interactive/unreal-common-mannequin-plugin/commit/4700fc0))
+
 ## 0.1.0 - 2022-06-26
 
 -   Initial Commit ([1d6e7e6](https://github.com/impulse-interactive/unreal-common-mannequin-plugin/commit/1d6e7e6))
