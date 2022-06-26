@@ -1,7 +1,7 @@
 {
     "FileVersion": 3,
     "Version": 1,
-    "VersionName": "0.1.0",
+    "VersionName": "0.2.0",
     "FriendlyName": "Common Mannequin",
     "Description": "Common Mannequin plugin for projects using Unreal Engine, developed by Epic Games, Inc.",
     "Category": "Content",
